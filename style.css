@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 
-.top-section{
+.another-one{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;   
@@ -40,3 +40,18 @@ h1{
 
 }
 
+
+
+.middle-section{
+    display: flex;
+    background-image:url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    background-position:right;
+    background-position-y: 200px;
+}
+
+.dream{
+    padding-right: 15%;
+    text-align: justify;
+}
